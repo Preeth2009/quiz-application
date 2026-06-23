@@ -61,4 +61,4 @@ This project was created to practice Python programming concepts such as functio
 
 ## Author
 
-Preeth2009
+Preetham G
